@@ -11,3 +11,10 @@ Project objetives
 5) Assisted Machine learning
 6) Automatic Machine learning
 7) Smart dictionnary
+
+THIS AN OLD PROJECT NOT MAINTAINED AND FOR EDUCATIONAL PURPOSES
+
+Memo SIM - Happy to share
+
+SIM - Service Memosa
+https://services-memosa.weebly.com/
